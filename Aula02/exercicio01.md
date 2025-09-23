@@ -1,4 +1,5 @@
 # Atividade 01 - Teste de Mesa - Algoritmos
+
 Data: 17/09/2025
 Nome: Daniel Reis Gonçalves Sant'ana
 
