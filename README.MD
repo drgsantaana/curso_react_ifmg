@@ -1,6 +1,7 @@
 # Curso de React IFMG - Campus Bambuí
+>**Inicio:** `15/09/2025` - **Término:** `--/--/--`
 
-Este repositório contém todo o conteúdo e exercícios desenvolvidos durante o curso de React oferecido pelo Instituto Federal de Minas Gerais (IFMG) - Campus Bambuí.
+Este repositório contém todo o conteúdo e exercícios desenvolvidos durante o curso de React oferecido pelo *Instituto Federal de Minas Gerais (IFMG) - Campus Bambuí*.
 
 ## Pré-requisitos
 
