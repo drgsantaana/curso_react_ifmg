@@ -1,13 +1,13 @@
 # Curso de React IFMG - Campus Bambuí
->**Inicio:** `15/09/2025` - **Término:** `--/--/--`
 
-Este repositório contém todo o conteúdo e exercícios desenvolvidos durante o curso de React oferecido pelo *Instituto Federal de Minas Gerais (IFMG) - Campus Bambuí*.
+> **Inicio:** `15/09/2025` - **Término:** `--/--/--`
+
+Este repositório contém todo o conteúdo e exercícios desenvolvidos durante o curso de React oferecido pelo _Instituto Federal de Minas Gerais (IFMG) - Campus Bambuí_.
 
 ## Pré-requisitos
 
--   [Node.js](https://nodejs.org/pt/download) instalado 
+-   [Node.js](https://nodejs.org/pt/download) instalado
 -   Navegador WEB
-
 
 ## Objetivos de Aprendizado
 
@@ -19,8 +19,6 @@ Este repositório contém todo o conteúdo e exercícios desenvolvidos durante o
 
 ## Recursos Adicionais
 
--   [Documentação oficial do React](https://reactjs.org/docs/)
+-   [Documentação oficial do React](https://react.dev/)
 -   [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 -   [Node.js Documentation](https://nodejs.org/en/docs/)
-
-
